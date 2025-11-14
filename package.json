@@ -1,0 +1,24 @@
+{
+  "name": "atividade02ppi",
+  "version": "1.0.0",
+  "description": "Aplicação utilizando POST",
+  "homepage": "https://github.com/Breno-Passarela/Atividade02PPI#readme",
+  "bugs": {
+    "url": "https://github.com/Breno-Passarela/Atividade02PPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Breno-Passarela/Atividade02PPI.git"
+  },
+  "license": "ISC",
+  "author": "Breno",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
